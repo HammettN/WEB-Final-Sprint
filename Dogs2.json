@@ -1,0 +1,50 @@
+[
+    {
+      "dogname": "Rover",
+      "breed": "Beagal",
+      "gender": "female",
+      "birthday": "12/05/2017",
+      "neutered": true,
+      "weight": 30
+    },
+    {
+        "dogname": "Smarty",
+        "breed": "Poodle",
+        "gender": "male",
+        "birthday": "05/12/2018",
+        "neutered": false,
+        "weight": 35
+    },
+    {
+        "dogname": "Rosie",
+        "breed": "Cocker Spaniel",
+        "gender": "male",
+        "birthday": "07/25/2013",
+        "neutered": true,
+        "weight": 25
+    },
+    {
+        "dogname": "Ernest",
+        "breed": "Dalmatian",
+        "gender": "female",
+        "birthday": "01/02/2012",
+        "neutered": false,
+        "weight": 55
+    },
+    {
+        "dogname": "Goldie",
+        "breed": "Golden Retreiver",
+        "gender": "male",
+        "birthday": "03/09/2019",
+        "neutered": true,
+        "weight": 60
+    },
+    {
+        "dogname": "Maxwell",
+        "breed": "Shitzu",
+        "gender": "female",
+        "birthday": "04/04/2014",
+        "neutered": false,
+        "weight": 12
+    }
+]
